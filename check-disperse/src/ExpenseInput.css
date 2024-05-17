@@ -1,0 +1,40 @@
+.expense-input {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .showResults {
+    margin-right: 20px;
+  }
+  
+  .expense {
+    margin-bottom: 10px;
+  }
+  
+  .showTasks {
+    width: 300px;
+  }
+  
+  .showTasks div {
+    margin-bottom: 10px;
+  }
+  
+  .showTasks input {
+    width: calc(100% - 30px);
+    padding: 5px;
+    margin-right: 5px;
+  }
+  
+  .showTasks button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .showTasks button:hover {
+    background-color: #0056b3;
+  }
+  
